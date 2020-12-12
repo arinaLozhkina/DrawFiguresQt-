@@ -1,6 +1,5 @@
 #include <fig.h>
 #include <draw.h>
-#include <cmath>
 
 
 Circle::Circle(int x, int y, int width, int height)
